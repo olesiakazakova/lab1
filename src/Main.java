@@ -4,7 +4,6 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
-//сдать отчет на сайте psu.online (к следующей паре)
 //9 вариант (нечет задания)
 
 public class Main {
